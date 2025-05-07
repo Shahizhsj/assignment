@@ -40,3 +40,60 @@ This project demonstrates an AI-powered community moderation system that integra
 ## Here I uploaded a pdf file of apple and i asked a few questions regreading apple 
 
 ![File Summarization](https://github.com/Shahizhsj/vahan_assignment/blob/8ef22471733e8627a30ae9787943ddb3dbd19cdd/Screenshot%20(200).png)
+
+## Here is demo video 
+
+[Demo video](https://drive.google.com/file/d/1kgDjLkuWk2rHC7siZbaQ8DB-dYHRFpUf/view?usp=sharing)
+
+# System architecture
+
+![File Summarization](https://github.com/Shahizhsj/assignment/blob/b1b35c04972f12d3d5613a94d119837ffded41ff/assignment.drawio.png)
+
+
+# Setup instructions
+
+### Prerequisites
+- **Python:** Version 3.9 or higher.
+- **Internet Connection:** Required for API calls.
+- **API Keys:**  
+  - **Google Gemini API Key** for text processing.
+  - **ElevenLabs API Key** for text-to-speech.
+### Installation Steps
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Shahizhsj/assignment
+   cd assignment
+   ```
+
+2. **Set Up Virtual Environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # For Linux/MacOS
+   venv\Scripts\activate     # For Windows
+   ```
+
+3. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. **Launch the Application**
+   ```bash
+   python app.py
+   ```
+
+6. **Access the Interface**
+   Open your browser and go to:  
+   `http://localhost:7860` (default port).
+
+
+# Future Improvements
+
+### 1. Handling Diverse Knowledge Formats  
+**Challenge:** Processing data from multiple formats like web pages, PDFs, and Word documents.  
+**Solution:** Developed a preprocessing pipeline to standardize content for indexing and retrieval.  
+
+### 2. Maintaining Brand Consistency  
+**Challenge:** Ensuring the AI agent adheres to the brand’s tone and guidelines.  
+**Solution:** Configured detailed AI prompts and templates to align responses with brand voice.  
