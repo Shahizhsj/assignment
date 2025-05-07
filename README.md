@@ -88,7 +88,7 @@ This project demonstrates an AI-powered community moderation system that integra
    `http://localhost:7860` (default port).
 
 
-# Future Improvements
+# Improvements
 
 ### 1. Handling Diverse Knowledge Formats  
 **Challenge:** Processing data from multiple formats like web pages, PDFs, and Word documents.  
