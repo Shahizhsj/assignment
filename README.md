@@ -52,7 +52,7 @@ This project demonstrates an AI-powered community moderation system that integra
 
 ## Here is demo video 
 
-[Demo video]([https://drive.google.com/file/d/1kgDjLkuWk2rHC7siZbaQ8DB-dYHRFpUf/view?usp=sharing](https://drive.google.com/file/d/1Z_4QgtV-QfjKuh1HYeZDBVJkcSMckgFb/view?usp=sharing))
+https://drive.google.com/file/d/1kgDjLkuWk2rHC7siZbaQ8DB-dYHRFpUf/view?usp=sharing](https://drive.google.com/file/d/1Z_4QgtV-QfjKuh1HYeZDBVJkcSMckgFb/view?usp=sharing
 
 # System architecture
 
