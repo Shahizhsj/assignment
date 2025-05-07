@@ -39,11 +39,20 @@ This project demonstrates an AI-powered community moderation system that integra
 
 ## Here I uploaded a pdf file of apple and i asked a few questions regreading apple 
 
-![File Summarization](https://github.com/Shahizhsj/vahan_assignment/blob/8ef22471733e8627a30ae9787943ddb3dbd19cdd/Screenshot%20(200).png)
+![File Summarization](https://github.com/Shahizhsj/assignment/blob/32ea589745e672030709779afb489a2bfd9c0af1/Screenshot%20(204).png)
+
+![File Summarization](https://github.com/Shahizhsj/assignment/blob/32ea589745e672030709779afb489a2bfd9c0af1/Screenshot%20(205).png)
+
+![File Summarization](https://github.com/Shahizhsj/assignment/blob/32ea589745e672030709779afb489a2bfd9c0af1/Screenshot%20(206).png)
+
+![File Summarization](https://github.com/Shahizhsj/assignment/blob/32ea589745e672030709779afb489a2bfd9c0af1/Screenshot%20(207).png)
+
+
+
 
 ## Here is demo video 
 
-[Demo video](https://drive.google.com/file/d/1kgDjLkuWk2rHC7siZbaQ8DB-dYHRFpUf/view?usp=sharing)
+[Demo video]([https://drive.google.com/file/d/1kgDjLkuWk2rHC7siZbaQ8DB-dYHRFpUf/view?usp=sharing](https://drive.google.com/file/d/1Z_4QgtV-QfjKuh1HYeZDBVJkcSMckgFb/view?usp=sharing))
 
 # System architecture
 
